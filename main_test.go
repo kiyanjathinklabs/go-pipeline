@@ -18,7 +18,7 @@ import "testing"
 func TestHello(t *testing.T) {
 	
 	//wanted output result as defined in  main.go
-	want := TEST_CONST_00001 
+	want := "Hello M. Bena welcome" 
 
 	//function to be tested
 	got := hello()
