@@ -18,7 +18,7 @@ import "testing"
 func TestHello(t *testing.T) {
 	
 	//wanted output result as defined in  main.go
-	want := "Hello M. Bena welcome" 
+	want := "Hello M. Bena welcome2" 
 
 	//function to be tested
 	got := hello()
